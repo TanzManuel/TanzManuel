@@ -149,14 +149,6 @@ contact: t.me/TanzManuel
 
 ---
 
-### `> trophies --all`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanzManuel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-</div>
-
----
-
 <div align="center">
   <code>// built with caffeine, curiosity, and way too many tabs ☕</code>
   <br/><br/>
