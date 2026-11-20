@@ -1,11 +1,11 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=TANZ%20%2F%2F%20DEV%20PANEL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Hi%2C%20I'm%20Tanz%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
 
-<img src="./assets/terminal.svg" width="100%" alt="tanz terminal" />
+<img src="./terminal.svg" width="100%" alt="tanz terminal" />
 
-<img src="./assets/mascot.svg" width="360" alt="orange block mascot" /><br/>
+<img src="./mascot.svg" width="360" alt="orange block mascot" /><br/>
 <sub>🧡 my little orange pair programmer, always bobbing along while I code</sub>
 
 <br/><br/>
@@ -113,12 +113,12 @@ contact: t.me/TanzManuel
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=TanzManuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="Stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=TanzManuel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Stats" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzManuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TanzManuel&theme=tokyo-night&hide_border=true&border_radius=12" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=TanzManuel&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
 
 </div>
 
