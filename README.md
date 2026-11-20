@@ -22,6 +22,8 @@
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 ## 🧑‍💻 Tentang Saya
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="emoji" />
+
 - 👋 Halo, saya **Tanz**!
 - 🔭 Sedang mengerjakan **proyek-proyek keren**
 - 🌱 Sedang belajar **Rust, Go & Cloud Architecture**
