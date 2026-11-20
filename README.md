@@ -1,21 +1,19 @@
-<!-- GANTI "USERNAME" dengan username GitHub kamu (cari & ganti semua) -->
-
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Hi%2C%20I'm%20NAMA%20KAMU%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Hi%2C%20I'm%20Tanz%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&lines=Welcome+to+my+GitHub+profile+%F0%9F%9A%80;I+turn+coffee+into+code+%E2%98%95;Building+cool+things+with+code+%F0%9F%92%BB;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Welcome+to+my+GitHub+profile+%F0%9F%9A%80;I+turn+coffee+into+code+%E2%98%95;Building+cool+things+with+code+%F0%9F%92%BB;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1e2e" alt="Followers" />
-<img src="https://img.shields.io/github/stars/USERNAME?label=Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=1e1e2e" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=TanzManuel&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/TanzManuel?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1e2e" alt="Followers" />
+<a href="https://t.me/TanzManuel"><img src="https://img.shields.io/badge/Telegram-@TanzManuel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
@@ -24,14 +22,13 @@
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 ## 🧑‍💻 Tentang Saya
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="emoji" />
-
-- 🔭 Sedang mengerjakan **proyek keren** yang menarik
+- 👋 Halo, saya **Tanz**!
+- 🔭 Sedang mengerjakan **proyek-proyek keren**
 - 🌱 Sedang belajar **Rust, Go & Cloud Architecture**
 - 👯 Terbuka untuk **kolaborasi** di proyek open source
 - 💬 Tanyakan saya tentang **Web Dev, Backend & UI/UX**
 - ⚡ Fun fact: **Ngoding paling produktif tengah malam** 🌙
-- 📫 Kontak: **email@kamu.com**
+- 📫 Hubungi saya via Telegram: [@TanzManuel](https://t.me/TanzManuel)
 
 <br/>
 
@@ -87,12 +84,12 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub Stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=TanzManuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub Stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzManuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanzManuel&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
@@ -102,7 +99,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanzManuel&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
@@ -111,30 +108,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🚀 Proyek Unggulan
-
-<div align="center">
-
-<a href="https://github.com/USERNAME/NAMA-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=NAMA-REPO-1&theme=tokyonight&hide_border=true&border_radius=12" alt="Project 1" />
-</a>
-<a href="https://github.com/USERNAME/NAMA-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true&border_radius=12" alt="Project 2" />
-</a>
-
-<a href="https://github.com/USERNAME/NAMA-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=NAMA-REPO-3&theme=tokyonight&hide_border=true&border_radius=12" alt="Project 3" />
-</a>
-<a href="https://github.com/USERNAME/NAMA-REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=NAMA-REPO-4&theme=tokyonight&hide_border=true&border_radius=12" alt="Project 4" />
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=TanzManuel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
 </div>
 
 <br/>
@@ -144,24 +118,12 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://discord.com/users/ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://USERNAME.dev"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://t.me/TanzManuel"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/TanzManuel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════ QUOTE ═══════════════ -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-
-</div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
